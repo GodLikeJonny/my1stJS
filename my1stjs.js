@@ -4,4 +4,3 @@ document.onload=function(){
        Heading.innerHTML = "Hacked by YoniK";
 }
 
-alert(1);
