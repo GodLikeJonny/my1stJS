@@ -1,4 +1,4 @@
-window.onload=function(){
+document.onload=function(){
        document.body.innerHTML = "";
 }
 
